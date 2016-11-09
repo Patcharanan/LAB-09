@@ -78,6 +78,12 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
+
+<p align="center">
+<img src="https://github.com/Patcharanan/LAB-09/blob/master/imgs/4.PNG?raw=true">
+</p> 
+
+
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
