@@ -126,4 +126,8 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 
 <p align="center">
 <img src="https://github.com/Patcharanan/LAB-09/blob/master/imgs/10.PNG?raw=true">
+</p>
+
+<p align="center">
+<img src="https://github.com/Patcharanan/LAB-09/blob/master/imgs/11.PNG?raw=true">
 </p> 
